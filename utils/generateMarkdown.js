@@ -40,12 +40,13 @@ function generateMarkdown(data) {
 ${data.description}
   
 ## Table of Contents
+* [Features](#Features)
 * [Installation](#installation)
 * [Usage](#usage)
-* [License](#license)
 * [Contribution](#contribution)
+* [built](#built)
+* [License](#license)
 * [Tests](#tests)
-* [Questions](#questions)
   
 ## Installation
 \`\`\`
@@ -54,9 +55,6 @@ ${data.installation}
   
 ## Usage
 ${data.usage}
-  
-## License
-${data.license ? `This project is licensed under the ${data.license} license - see the [LICENSE.txt](LICENSE.txt) file for details`},
   
 ## Contribution
 ${data.contribution}
