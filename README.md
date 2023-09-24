@@ -16,7 +16,7 @@ npm
 
 Installation
 
-Clone the start code repository by running git clone https://github.com/coding-boot-camp/potential-enigma then open file switch branchs to my own repo using git clone https://github.com/Savonyp/TeamGenerator 
+Clone the start code repository by running git clone then open file switch branchs to my own repo using git clone https://github.com/Savonyp/TeamGenerator 
 Navigate to the project directory by running cd team-generator
 Install the dependencies by running npm install in terminal
 Start the development server by running npm start
